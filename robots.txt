@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pusendan.github.io/sitemap.html.gz
+Sitemap: https://pusendan.github.io/app/sitemap.html.gz
+Sitemap: https://pusendan.github.io/assets/sitemap.html.gz
+Sitemap: https://pusendan.github.io/css/sitemap.html.gz
+Sitemap: https://pusendan.github.io/includes/sitemap.html.gz
+Sitemap: https://pusendan.github.io/item/sitemap.html.gz
+Sitemap: https://pusendan.github.io/src/sitemap.html.gz
